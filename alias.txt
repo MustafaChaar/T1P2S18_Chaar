@@ -1,0 +1,3 @@
+alias co='git checkout'
+alias bk='cd ../'
+alias brc='source ~/.bashrc'
